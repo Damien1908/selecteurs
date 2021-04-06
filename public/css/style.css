@@ -18,3 +18,10 @@ section:nth-child(4)>ul>:nth-child(2)>a{
 section:nth-child(5)>h3+span{
     color: blue;
 }
+section:nth-child(6)>img{
+    border:solid black 5px;
+    border-radius: 50%;
+}
+section:nth-child(7)>p:hover{
+    color: green;
+}
